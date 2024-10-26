@@ -35,3 +35,4 @@ This project is a Next.js application with Tailwind CSS and DaisyUI for styling.
 * ProductCard.tsx: A placeholder component for product information that contains the AddToCart button.
 
 Global Styles (globals.css): Configures Tailwind CSS, sets up light and dark mode variables, and applies basic styling for the application.
+# react-fetch
